@@ -6,7 +6,7 @@ import { airPortSelector, autoSuggestRender } from '../../utils/';
 
 const HomepageSearchForm = (props) =>
     <div>
-        <h2>Search for Cheap Flights</h2>
+        <h2>Search for CTS Flights</h2>
         <form>
             <div className="row">
                 <div className="col-md-12 trip-tabs mt-2 mb-2">

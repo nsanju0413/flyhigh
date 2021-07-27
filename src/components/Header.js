@@ -7,7 +7,7 @@ const Header = () => (
             <span className="navbar-toggler-icon"></span>
         </button>
         <div className="container">
-            <Link className="navbar-brand" to="/">Galatia</Link>
+            <Link className="navbar-brand" to="/">CTS Flights</Link>
             <div className="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul className="navbar-nav">
                     <li className="nav-item active">
